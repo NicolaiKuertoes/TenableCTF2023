@@ -9,6 +9,11 @@ var _0x4b0817=_0x3cdb;(function(_0x25abc1,_0x1b11ab){var _0x21dd4f=_0x3cdb,_0x15
 ```
 
 ## Solution
+Running code the prints the following String:
+```
+"Zm1jZH92N2tkcFVhbXs6fHNjI2NgaA=="
+```
+
 (Mostly) deobfuscated JS:
 ```js
 var _0x4b0817 = GetElement;
