@@ -81,7 +81,7 @@ if __name__ == "__main__":
     main()
 ```
 
-Settings the resulting cookie and visiting the dashboard returns the contents of `/home/ctf/flag.txt`
+Setting the resulting cookie and visiting the dashboard returns the contents of `/home/ctf/flag.txt`
 
 ```
 flag{wh4ts_1n_a_n4m3_4nd_wh4ts_in_y0ur_fl4sk}
